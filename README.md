@@ -16,4 +16,5 @@ Reboot your system or reupload Arduino code via Arduino IDE.
 
 
 ###Arduino Scheme
+
 ![alt text](https://raw.githubusercontent.com/kristiyanyanchev/LinuxMediaRemote/master/ArduinoScheme.png "Logo Title Text 1")
